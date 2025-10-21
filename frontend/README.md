@@ -1,0 +1,1 @@
+Minimal React demo. Use environment variable REACT_APP_API to point to backend.
