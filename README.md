@@ -1,4 +1,4 @@
-# credabud
+# credbud
 
 # 🎓 credBud — Student Engagement & Academic Integrity Platform
 
