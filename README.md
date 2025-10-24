@@ -1,6 +1,6 @@
-# Grdabud
+# credabud
 
-# 🎓 GradBud — Student Engagement & Academic Integrity Platform
+# 🎓 credBud — Student Engagement & Academic Integrity Platform
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-repo)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
