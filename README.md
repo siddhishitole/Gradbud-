@@ -1,12 +1,12 @@
-# credbud
+# Graddbud
 
-# 🎓 credBud — Student Engagement & Academic Integrity Platform
+# 🎓 GradBud — Student Engagement & Academic Integrity Platform
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-repo)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![AWS Deploy](https://img.shields.io/badge/deploy-AWS-E53E3E)](https://aws.amazon.com/ecs/)
 
-**CredBud** is a full-stack platform designed to **boost student engagement**, ensure **academic integrity**, and streamline **attendance and reward management** in educational institutions.
+**GradBud** is a full-stack platform designed to **boost student engagement**, ensure **academic integrity**, and streamline **attendance and reward management** in educational institutions.
 
 The system enables secure tracking of participation, gamified reward distribution, and transparent faculty-student interaction — all through a unified web and mobile experience.
 
