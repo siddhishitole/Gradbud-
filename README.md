@@ -34,7 +34,7 @@ The system enables secure tracking of participation, gamified reward distributio
 <p align="center">
   <img src="assests/1.jpg" alt="GradBud mobile screenshot - dashboard" width="250"/>
   <img src="assests/3.jpg" alt="GradBud mobile screenshot - attendance" width="250"/>
-  <img src="assests/5(1).jpg" alt="GradBud mobile screenshot - rewards" width="250"/>
+  <img src="assests/5.jpg" alt="GradBud mobile screenshot - rewards" width="250"/>
 </p>
 <p align="center">
   <img src="assests/7.jpg" alt="GradBud mobile screenshot - profile" width="250"/>
