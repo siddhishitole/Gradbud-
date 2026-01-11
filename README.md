@@ -1,4 +1,4 @@
-# Graddbud
+# Gradbud
 
 # 🎓 GradBud — Student Engagement & Academic Integrity Platform
 
@@ -28,20 +28,20 @@ The system enables secure tracking of participation, gamified reward distributio
 
 ---
 
-## 🧭 How to Use
 
-### 1️⃣ Backend (Node.js + Express)
-Handles JWT-based authentication and exposes RESTful APIs:
+## 📱 GradBud Screenshots
 
-| Endpoint | Purpose |
-|----------|---------|
-| `/auth/login` | Authenticate users (students/faculty/admins) |
-| `/attendance` | Mark and fetch attendance |
-| `/rewards` | Issue or view student rewards |
-| `/me` | Fetch user profile and progress summary |
-
-Run backend:
-```bash
-cd backend
-npm install
-npm start
+<p align="center">
+  <img src="assests/1.jpg" alt="GradBud mobile screenshot - dashboard" width="250"/>
+  <img src="assests/3.jpg" alt="GradBud mobile screenshot - attendance" width="250"/>
+  <img src="assests/5(1).jpg" alt="GradBud mobile screenshot - rewards" width="250"/>
+</p>
+<p align="center">
+  <img src="assests/7.jpg" alt="GradBud mobile screenshot - profile" width="250"/>
+  <img src="assests/9.jpg" alt="GradBud mobile screenshot - notifications" width="250"/>
+  <img src="assests/10.jpg" alt="GradBud mobile screenshot - achievements" width="250"/>
+</p>
+<p align="center">
+  <img src="assests/11.jpg" alt="GradBud mobile screenshot - settings" width="250"/>
+  <img src="assests/17.jpg" alt="GradBud mobile screenshot - analytics" width="250"/>
+</p>
